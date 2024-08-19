@@ -4,7 +4,7 @@ import Logo from '../../assets/logo.svg'
 export const Header = () => {
     return (
         <Container>
-            <img src={Logo} alt="logo" />
+            <img src={Logo} alt="logo" /> LUIS FERNANDO SILVA BETANCURT :D
 
             <nav>
                 <a href="#">Docs</a>
